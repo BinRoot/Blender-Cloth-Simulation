@@ -1,3 +1,7 @@
+![cloth with a marked point](http://i.imgur.com/JK6B7p5.png)
+
+![3d cloth hanging](http://i.imgur.com/1kNY4iY.png)
+
 # Description
 
 These scripts simulate a cloth being held from different points.
